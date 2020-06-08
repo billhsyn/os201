@@ -12,5 +12,4 @@ Berikut ini merupakan webpage Github saya
 # MENGAPA
 Karena saya ingin menyelesaikan tugas UAS dengan sebenar-benarnya
 
-# Ingin tahu lebih banyak tentang OS?
-[**Url**](https://billhsyn.github.io/os201/URLs)
+# [**Ingin tahu lebih banyak tentang OS?**](https://billhsyn.github.io/os201/URLs)
