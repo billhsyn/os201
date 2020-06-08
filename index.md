@@ -1,12 +1,12 @@
-#Halo, Selamat Datang :)
+# Halo, Selamat Datang :)
 
-#SIAPA
+# SIAPA
 Saya Raden Salsabilla Hisyana Zahra 
 mahasiswi Fakultas Ilmu Komputer jurusan Sistem Informasi
 
-#APA
+# APA
 Webpage Github saya
 
-#MENGAPA
+# MENGAPA
 Karena saya ingin menyelesaikan tugas UAS
 
